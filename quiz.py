@@ -1,8 +1,8 @@
 # ============ Greeting App ==========
-# name = input("What is your name: ")
-# color = input("What is your favorite color: ")
+name = input("What is your name: ")
+color = input("What is your favorite color: ")
 
-# print(f"Hello, {name}! Your favorite color, {color}, is awesome ")
+print(f"Hello, {name}! Your favorite color, {color}, is awesome ")
 
 # =========== Quiz Game ==============
 import random
